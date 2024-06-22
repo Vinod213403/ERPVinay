@@ -3,22 +3,22 @@ package commonFunctions;
 public class Demotesting {
 	public void add()
 	{
-		int a=10;
+		int a=1000;
 		int b=35;
 		int c=a+b;
 		System.out.println(c);
 	}
 	public void sub()
 	{
-		int a=100;
-		int b=35;
+		int a=10340;
+		int b=375;
 		int c=a+b;
 		System.out.println(c);
 	}
 	public void div()
 	{
-		int a=100;
-		int b=25;
+		int a=13400;
+		int b=285;
 		int c=a+b;
 		System.out.println(c);
 	}
